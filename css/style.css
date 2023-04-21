@@ -53,3 +53,7 @@ a, a:visited {
   justify-content: center;
 }
 
+.link:hover {
+  border-radius: 25px;
+  background-color: #3d3d3d;
+}
